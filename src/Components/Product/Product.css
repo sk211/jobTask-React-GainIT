@@ -1,0 +1,20 @@
+.bnAwAJ {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+    min-width: 100px;
+    font-size: 16px;
+    padding: 20px 20px;
+    color: #575757;
+}
+.jVeafb:not(:last-of-type) {
+    border: none;
+}

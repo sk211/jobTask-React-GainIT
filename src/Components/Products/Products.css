@@ -1,0 +1,28 @@
+.d-flex.dropdown_section {
+    width: 368px;
+    line-height: 46px;
+}
+
+.pr-4 {
+    padding-right: 30px;
+}
+.dropdown {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 30px;
+    gap: 10px;
+    width: 189px;
+    height: 48px;
+    background: #FDFDFF;
+/* Disable gray */
+    border: 1px solid #B7B8BC;
+    background: transparent;
+}
+
+button#dropdown-basic {
+    background: transparent;
+    color: #333;
+    border: none;
+}
